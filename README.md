@@ -36,7 +36,7 @@
 | 文件名 | 说明 |
 |--------|------|
 | `LemonIPTV-v1.1.9-release.apk` | 正式发布版（推荐） |
-| `mytv-android*.apk` | GitHub Actions 自动构建时的产物命名（以 [Releases](https://github.com/jia070310/lemonTV/releases) 页面附件为准） |
+| `LemonIPTV*.apk` | GitHub Actions 自动构建时的产物命名（以 [Releases](https://github.com/jia070310/lemonTV/releases) 页面附件为准） |
 
 > 安装时如提示"未知来源"，请在系统设置中允许安装即可。
 

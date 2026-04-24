@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/jia070310/lemonTV/raw/main/pic/1%20(1).png" alt="柠檬IPTV直播" width="100%"/>
+
 
 # 🍋 柠檬IPTV直播
 
